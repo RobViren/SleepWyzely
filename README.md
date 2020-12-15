@@ -10,11 +10,11 @@ A project to see if a the Wyze can be used for sleep monitoring. The infrared im
 
 Smoothed Sample of data. I use a simple peak finding package to get the distance between breaths in frames and use that to solve for time. The 10 FPS makes for easy conversion. 
 
-![](images\sample.png)
+![sample](https://github.com/RobViren/SleepWyzely/blob/master/images/sample.png)
 
 Full Results
 
-![](images\pluto.png)
+![pluto](https://github.com/RobViren/SleepWyzely/blob/master/images/pluto.png)
 
 **Future Plans:** 
 
